@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../The Marat Company"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Resume"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "The Marat Company"
+	}
+}
